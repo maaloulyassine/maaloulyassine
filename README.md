@@ -1,4 +1,4 @@
--# 👋 Hello, I'm Mohamed Yassine Maaloul!  
+# 👋 Hello, I'm Mohamed Yassine Maaloul!  
 
 🚀 **Aspiring Data Scientist | Full Stack Developer | Tech Enthusiast**  
 
@@ -30,9 +30,15 @@ I am passionate about technology, artificial intelligence, and software developm
 
 ---
 
+### 📊 **GitHub Stats**  
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineMaaloul07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineMaaloul07&layout=compact&theme=radical)  
+
+---
+
 ### 📢 **Let's Connect!**  
-📩 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn]  
-🐦 **Twitter:** [Your Twitter]  
+📩 **Email:** [yassine.maaloul2005@gmail.com](mailto:yassine.maaloul2005@gmail.com)  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YourProfile)  
+🐦 **Twitter:** [Your Twitter](https://twitter.com/YourProfile)  
 
 ⭐ **If you like my work, consider giving a star to my projects!** 🚀  
