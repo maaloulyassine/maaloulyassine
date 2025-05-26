@@ -5,17 +5,14 @@
 I am passionate about technology, artificial intelligence, and software development. Currently, I am pursuing my studies in **Bac Sciences (Tunisia)** and actively working on various projects in **Data Science, Web Development (PERN Stack), and Networking**.  
 
 🌟 **What I'm Working On:**  
-- 🔬 **Data Science Project:** Improving student services (hygiene, food, quality) using AI  
-- 🌍 **Hackathon:** Participating in *Tunisian Hack* to revolutionize education in Tunisia  
-- 💻 **MATLAB Project:** Image manipulation detection  
 - 🌱 **Learning:** Full Stack Development (PERN), React Native, GitHub, and LinkedIn optimization  
 
 ---
 
 ### 🛠 **Tech Stack & Skills**  
 💻 **Languages & Frameworks:**  
-- Python, JavaScript (Node.js, React, Express)  
-- SQL (PostgreSQL, MySQL), MATLAB  
+- Python, JavaScript (Node.js, React)  , React Native
+- SQL (PostgreSQL, MySQL)
 
 🖥 **Tools & Platforms:**  
 - Linux, Git & GitHub, Tinkercad, Udemy  
