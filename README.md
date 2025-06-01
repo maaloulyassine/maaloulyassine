@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Yassine Maaloul!  
 
-🚀 **Aspiring Data Scientist | Full Stack Developer | Tech Enthusiast**  
+🚀 ** | Full Stack Developer | **  
 
 I am passionate about technology, artificial intelligence, and software development. Currently, I am pursuing my studies in **Bac Sciences (Tunisia)** and actively working on various projects in **Data Science, Web Development (PERN Stack), and Networking**.  
 
@@ -15,10 +15,10 @@ I am passionate about technology, artificial intelligence, and software developm
 - SQL (PostgreSQL, MySQL)
 
 🖥 **Tools & Platforms:**  
-- Linux, Git & GitHub, Tinkercad, Udemy  
+- Linux, Git & GitHub, Udemy  
 
 📡 **Networking & Security:**  
-- Cisco Networking Academy | Learn-A-Thon 2025 Participant  
+- Cisco Networking Academy
 
 📈 **Interests:**  
 - AI & Machine Learning  
@@ -35,7 +35,6 @@ I am passionate about technology, artificial intelligence, and software developm
 
 ### 📢 **Let's Connect!**  
 📩 **Email:** [yassine.maaloul2005@gmail.com](mailto:yassine.maaloul2005@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YourProfile)  
-🐦 **Twitter:** [Your Twitter](https://twitter.com/YourProfile)  
+💼 **LinkedIn:** [Your LinkedIn](linkedin.com/in/maaloulyassine)  
 
 ⭐ **If you like my work, consider giving a star to my projects!** 🚀  
