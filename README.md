@@ -35,6 +35,6 @@ I am passionate about technology, artificial intelligence, and software developm
 
 ### 📢 **Let's Connect!**  
 📩 **Email:** [yassine.maaloul2005@gmail.com](mailto:yassine.maaloul2005@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn](linkedin.com/in/maaloulyassine)  
+💼 **LinkedIn:** [maaloulyassine](linkedin.com/in/maaloulyassine)  
 
 ⭐ **If you like my work, consider giving a star to my projects!** 🚀  
