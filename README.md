@@ -1,40 +1,64 @@
-# 👋 Hello, I'm Mohamed Yassine Maaloul!  
-
-🚀 ** | Full Stack Developer | **  
-
-I am passionate about technology, artificial intelligence, and software development. Currently, I am pursuing my studies in **Bac Sciences (Tunisia)** and actively working on various projects in **Data Science, Web Development (PERN Stack), and Networking**.  
-
-🌟 **What I'm Working On:**  
-- 🌱 **Learning:** Full Stack Development (PERN), React Native, GitHub, and LinkedIn optimization  
+# 👋 Mohamed Yassine Maaloul  
+**Étudiant en Informatique | Développement Web & Mobile | Cybersécurité**  
+📍 Ben Arous, Tunisie | 📧 yassine.maaloul2005@gmail.com | 📞 +216 28 034 340  
 
 ---
 
-### 🛠 **Tech Stack & Skills**  
-💻 **Languages & Frameworks:**  
-- Python, JavaScript (Node.js, React)  , React Native
-- SQL (PostgreSQL, MySQL)
-
-🖥 **Tools & Platforms:**  
-- Linux, Git & GitHub, Udemy  
-
-📡 **Networking & Security:**  
-- Cisco Networking Academy
-
-📈 **Interests:**  
-- AI & Machine Learning  
-- Cybersecurity & Ethical Hacking  
-- Freelancing & Entrepreneurship  
+## 🚀 **Profil**  
+Étudiant passionné par l'informatique, spécialisé en développement web/mobile et cybersécurité. À la recherche d'opportunités pour appliquer mes compétences techniques dans des projets innovants.  
 
 ---
 
-### 📊 **GitHub Stats**  
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineMaaloul07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineMaaloul07&layout=compact&theme=radical)  
+## 🔧 **Compétences Techniques**  
+### **Langages & Frameworks**  
+- Frontend: **HTML/CSS, JavaScript, React**  
+- Backend: **Node.js, Python, C**  
+- Mobile: **React Native** (en formation)  
+- Bases de données: **MySQL, PostgreSQL**  
+
+### **Outils**  
+- Git | Linux | Cisco Packet Tracer  
 
 ---
 
-### 📢 **Let's Connect!**  
-📩 **Email:** [yassine.maaloul2005@gmail.com](mailto:yassine.maaloul2005@gmail.com)  
-💼 **LinkedIn:** [maaloulyassine](https://www.linkedin.com/in/maaloulyassine)
+## 🎓 **Formation**  
+**Licence en Informatique**  
+Faculté des Sciences de Monastir • 2024–2026  
 
-⭐ **If you like my work, consider giving a star to my projects!** 🚀  
+**Formations Certifiantes**  
+- Développement Full Stack (PERN) – Udemy  
+- JavaScript Algorithms – freeCodeCamp  
+
+---
+
+## 💼 **Projets**  
+### 🏠 **Smart Home Network**  
+Simulation d'un réseau domotique sécurisé avec Cisco Packet Tracer.  
+[🔗 Voir le projet](https://github.com/maaloulyassine/smart-home-network)  
+
+### 📱 **Applications Web/Mobile**  
+Développement de mini-projets en React/React Native et Python.  
+[🔗 Explorer mes repositories](https://github.com/maaloulyassine)  
+
+---
+
+## 🌍 **Langues**  
+- Arabe (Natif) | Français (Courant) | Anglais (Technique) | Allemand (Notions)  
+
+---
+
+## 📌 **Centres d'Intérêt**  
+- Contribuer à l'open source  
+- Cybersécurité & hacking éthique  
+- Intelligence artificielle  
+
+---
+
+## 📬 **Contact**  
+💼 **[LinkedIn](https://www.linkedin.com/in/maaloulyassine)** |  
+💻 **[GitHub](https://github.com/maaloulyassine)** |  
+📧 **Email:** [yassine.maaloul2005@gmail.com](mailto:yassine.maaloul2005@gmail.com)  
+
+---
+
+⭐ **"Le code est la poésie du monde moderne."**  ****
